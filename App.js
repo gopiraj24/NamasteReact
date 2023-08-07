@@ -1,6 +1,6 @@
 
     const heading =React.createElement("h1",{},"Namaste Everyone!")
-    const heading2 = React.createElement('h2',{},"heading2")
+    const heading2 = React.createElement('h2',{style:{color:'green'}},"heading2")
     const container =React.createElement("div",{
         id:"container"},[heading,heading2])
 

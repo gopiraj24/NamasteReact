@@ -2942,7 +2942,8 @@ $parcel$ReactRefreshHelpers$c1db.prelude(module);
 
 try {
 /* Parcel 
-*The HMR(Hot Module Reder)
+*Created a Server
+*The HMR(Hot Module Replacement)
 *File watcher Algorithm - c++
 *Bundling 
 *Minify 
@@ -2957,7 +2958,10 @@ try {
 *Port number
 *Consistent Hashing algorithm 
 *Zero Config
-
+*
+*
+*
+*Transitive dependency (The dependecies will depend on other dependency is known as transitive dependency )
 
 
 
@@ -2966,14 +2970,20 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Namaste Everyone!");
+const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
+    key: "h1"
+}, "Namaste Everyone!");
 const heading2 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {
     style: {
         color: "green"
-    }
+    },
+    key: "h2 "
 }, "heading2");
 const container = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
-    id: "container"
+    id: "container",
+    style: {
+        backgroundColor: "yellow"
+    }
 }, [
     heading,
     heading2

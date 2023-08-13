@@ -1,13 +1,13 @@
-6069
+6071
 94D:\Namaste React\project-1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133359775774791385 1
 107D:\Namaste React\project-1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133359775831532436 0
 60D:\Namaste React\project-1\node_modules\braces\lib\expand.js133359775743132688 0
 78D:\Namaste React\project-1\node_modules\type-fest\source\conditional-keys.d.ts133359775744684710 0
-33D:\Namaste React\project-1\App.js133360633422091594 0
+33D:\Namaste React\project-1\App.js133361290780432829 0
 61D:\Namaste React\project-1\node_modules\csso\cjs\compress.cjs133359775747985887 0
 83D:\Namaste React\project-1\node_modules\caniuse-lite\data\features\accelerometer.js133359775742362619 0
 67D:\Namaste React\project-1\node_modules\css-tree\lib\lexer\Lexer.js133359775802692629 0
-39D:\Namaste React\project-1\package.json133360636172444650 0
+39D:\Namaste React\project-1\package.json133363857006528811 0
 60D:\Namaste React\project-1\node_modules\@parcel\packager-raw133359775775085078 1
 49D:\Namaste React\project-1\node_modules\commander133359775743733345 1
 99D:\Namaste React\project-1\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133359775746612666 0
@@ -33,7 +33,7 @@
 64D:\Namaste React\project-1\node_modules\to-regex-range\README.md133359775740882899 0
 58D:\Namaste React\project-1\node_modules\css-tree\cjs\lexer133359775794004669 1
 56D:\Namaste React\project-1\node_modules\term-size\vendor133359775742124233 1
-31D:\Namaste React\project-1\dist133360633075309655 1
+31D:\Namaste React\project-1\dist133363857295984012 1
 75D:\Namaste React\project-1\node_modules\css-tree\cjs\syntax\atrule\page.cjs133359775784340145 0
 69D:\Namaste React\project-1\node_modules\weak-lru-cache\dist\index.cjs133359775740044890 0
 111D:\Namaste React\project-1\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133359775794807518 0
@@ -6064,7 +6064,9 @@
 55D:\Namaste React\project-1\node_modules\.bin\semver.ps1133359775831552616 0
 67D:\Namaste React\project-1\node_modules\.bin\update-browserslist-db133359775831552616 0
 49D:\Namaste React\project-1\dist\index.6bd02f5a.js133359874245477009 0
-49D:\Namaste React\project-1\dist\index.7826abd7.js133360633074909987 0
-53D:\Namaste React\project-1\dist\index.7826abd7.js.map133360633075157695 0
-42D:\Namaste React\project-1\dist\index.html133360633071507122 0
+49D:\Namaste React\project-1\dist\index.6c96b0af.js133363857295827726 0
+53D:\Namaste React\project-1\dist\index.6c96b0af.js.map133363857295984012 0
+49D:\Namaste React\project-1\dist\index.7826abd7.js133363853298466970 0
+53D:\Namaste React\project-1\dist\index.7826abd7.js.map133363853298855653 0
+42D:\Namaste React\project-1\dist\index.html133363857295827726 0
 57D:\Namaste React\project-1\dist\project-1.3464ddca.js.map133359874245874991 0
